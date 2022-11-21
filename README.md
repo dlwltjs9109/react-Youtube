@@ -7,7 +7,7 @@
 
 ## **2. Project description**
 
--API key를 받아오고, react-query의 개념을 이해하고 mook-data와 실제 API key를 번갈아 사용하며 API key의 사용 빈도를 어떻게 줄이는지 학습하기 위해 이 프로젝트를 진행하였습니다.
+- API key를 받아오고, react-query의 개념을 이해하고 mook-data와 실제 API key를 번갈아 사용하며 API key의 사용 빈도를 어떻게 줄이는지 학습하기 위해 이 프로젝트를 진행하였습니다.
 
 - ## 주요 기능
   - 주요 기능은 실제 유튜브와 거의 흡사함
